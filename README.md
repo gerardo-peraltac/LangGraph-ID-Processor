@@ -100,6 +100,9 @@ Hi! Please upload ID documents for both guests (2 total).
 [USER] ./mock_ids/id_1.png
 Document received: ./mock_ids/id_1.png
 
+[USER] Just checking in
+Still waiting for 1 document(s). Please upload remaining ID(s).
+
 [USER] ./mock_ids/id_2.png
 Document received: ./mock_ids/id_2.png
 
@@ -115,6 +118,7 @@ Guest 2:
   last_name: Smith
   dob: 1990-03-22
   pob: New York
+Thanks! All guest information has been successfully processed.
 ```
 
 ---
